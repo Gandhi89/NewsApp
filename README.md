@@ -1,6 +1,8 @@
 # NewsApp
 This News application explores some features of Android Architecture Components (Paging, LiveData, ViewModel) along with network libraries (Retrofit, picasso) while following MVVM architecture 
 
+![](https://github.com/Gandhi89/NewsApp/blob/master/newsApp.gif)
+
 # Why paging library?
 Android apps that are built today has one same issue: Requesting long data which user may or may not see. One way to solve this problem is listen to scroll of RecyclerView & load more data when user reaches end of RecylerView.
 In this approach it was difficult to maintain efficiency, also UI logic & data logic gets complicated which makes debugging & testing of project difficult.
@@ -35,4 +37,5 @@ when a new page is loaded, the PagedListAdapter signals the RecyclerView that th
 
 # Demonstration
 
+![](https://github.com/Gandhi89/NewsApp/blob/master/newsApp.gif)
 
