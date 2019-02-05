@@ -33,6 +33,6 @@ when a new page is loaded, the PagedListAdapter signals the RecyclerView that th
 
 ![](https://github.com/Gandhi89/NewsApp/blob/master/paging.png)
 
-# Demonstartion
+# Demonstration
 
 
